@@ -1,10 +1,17 @@
-WebSockets : Real-Time Chat Tutorial
-====================================
+Node and SocketIO - Realtime Chat
+==========
+<div>
+<img src = https://img.shields.io/badge/%20-GitHub-orange.svg>
+<img src = https://img.shields.io/badge/%20-Javascript-FF3399.svg>
+<img src = https://img.shields.io/badge/%20-Node-197519.svg>
+</div>
+<br>
 
-Together with [Attila](https://github.com/Tr1ckX), I worked through the [socket.io "write a chat application" tutorial](http://socket.io/get-started).  Multiple users can visit the site, post, and then see other subsequent posts in real-time.  We extended the project a touch so that users that define a name on log-in will see their name affixed to all their postings.  We followed the basic design outlined by the tutorial.  The project [can be found here](https://benwebsockets.herokuapp.com/).
+<h5> Seventh week at [Makers Academy](http://www.makersacademy.com) 
 
-###Core Technologies
-- WebSockets
-- Express Server
-- EJS Templating
-- Basic HTML/CSS
+This week we dived into the Node fun.
+  - websockets for live update
+
+You can try it [here](https://benwebsockets.herokuapp.com/)
+
+You can find this week's other project [here](https://github.com/Tr1ckX/node_express_Week-7) and the weekly challenge [here](https://github.com/Tr1ckX/ruby_refresher_Week-7)
